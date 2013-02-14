@@ -112,26 +112,9 @@ Ajuste actual: "</string>
     <string name="battery_category">Batería</string>
     <string name="other_category">Otros</string>
     <string name="accessibility_settings">Accesibilidad</string>
-    <string name="accessibility_settings_summary" />
     <string name="battery_info">Información de batería</string>
-    <string name="battery_info_summary" />
     <string name="phone_info">Información del teléfono</string>
-    <string name="phone_info_summary" />
     <string name="wifi_testing">WLAN</string>
-    <string name="wifi_testing_summary" />
     <string name="usage_statistics">Estadísticas de uso</string>
-    <string name="usage_statistics_summary" />
     <string name="fuel_gauge">Uso de batería</string>
-    <string name="fuel_gauge_summary" />
-    <string name="legacy_ums_file">/sys/devices/platform/msm_hsusb/gadget/lun0/file</string>
-    <string name="legacy_ums_file_onex">/sys/devices/platform/fsl-tegra-udc/gadget/lun0/file</string>
-    <string name="legacy_ums_file_sgs2">/sys/devices/platform/s3c-usbgadget/gadget/lun0/file</string>
-    <string name="internal_partitions">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_sony">/sys/block/mtdblock*</string>
-    <string name="internal_partitions_first">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_first_sony">/sys/block/mtdblock0</string>
-    <string name="external_partitions">/sys/block/mmcblk1</string>
-    <string name="external_partitions_sony">/sys/block/mmcblk0</string>
-    <string name="external_partitions_first">/sys/block/mmcblk1</string>
-    <string name="external_partitions_first_sony">/sys/block/mmcblk0</string>
 </resources>
