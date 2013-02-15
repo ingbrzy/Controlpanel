@@ -112,26 +112,9 @@ Jelenlegi beállítás: "</string>
     <string name="battery_category">Akkumulátor</string>
     <string name="other_category">Egyéb</string>
     <string name="accessibility_settings">Kisegítő lehetőség</string>
-    <string name="accessibility_settings_summary" />
     <string name="battery_info">Akkumulátoradatok</string>
-    <string name="battery_info_summary" />
     <string name="phone_info">A telefon adatai</string>
-    <string name="phone_info_summary" />
     <string name="wifi_testing">Wi-Fi Információ</string>
-    <string name="wifi_testing_summary" />
     <string name="usage_statistics">Használati statisztikák</string>
-    <string name="usage_statistics_summary" />
     <string name="fuel_gauge">Akkumulátor használat</string>
-    <string name="fuel_gauge_summary" />
-    <string name="legacy_ums_file">/sys/devices/platform/msm_hsusb/gadget/lun0/file</string>
-    <string name="legacy_ums_file_onex">/sys/devices/platform/fsl-tegra-udc/gadget/lun0/file</string>
-    <string name="legacy_ums_file_sgs2">/sys/devices/platform/s3c-usbgadget/gadget/lun0/file</string>
-    <string name="internal_partitions">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_sony">/sys/block/mtdblock*</string>
-    <string name="internal_partitions_first">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_first_sony">/sys/block/mtdblock0</string>
-    <string name="external_partitions">/sys/block/mmcblk1</string>
-    <string name="external_partitions_sony">/sys/block/mmcblk0</string>
-    <string name="external_partitions_first">/sys/block/mmcblk1</string>
-    <string name="external_partitions_first_sony">/sys/block/mmcblk0</string>
 </resources>
