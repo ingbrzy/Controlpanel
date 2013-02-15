@@ -6,12 +6,6 @@
         <item>18%</item>
         <item>26%</item>
     </string-array>
-    <string-array name="cpu_zram_size_values">
-        <item>0</item>
-        <item>10</item>
-        <item>18</item>
-        <item>26</item>
-    </string-array>
     <string-array name="entries_animations">
         <item>Ki</item>
         <item>Gyors</item>
@@ -21,26 +15,11 @@
         <item>Nagyon lassú</item>
         <item>Leglassabb</item>
     </string-array>
-    <string-array name="entryvalues_animations">
-        <item>0.0</item>
-        <item>0.5</item>
-        <item>1.0</item>
-        <item>1.5</item>
-        <item>2.0</item>
-        <item>5.0</item>
-        <item>10.0</item>
-    </string-array>
     <string-array name="entries_overscroll_type">
         <item>Nincs</item>
         <item>Glow</item>
         <item>Bounce</item>
         <item>Bounce &amp;amp;amp;amp;amp; Glow</item>
-    </string-array>
-    <string-array name="entryvalues_overscroll_type">
-        <item>0</item>
-        <item>1</item>
-        <item>3</item>
-        <item>2</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
         <item>Nagyon nagy</item>
@@ -49,21 +28,9 @@
         <item>Kicsi</item>
         <item>Nagyon kicsi</item>
     </string-array>
-    <string-array name="entryvalues_overscroll_weight">
-        <item>1</item>
-        <item>3</item>
-        <item>5</item>
-        <item>7</item>
-        <item>9</item>
-    </string-array>
     <string-array name="entries_status_styles">
         <item>Jobba</item>
         <item>Középre</item>
         <item>Középre (Ikonok felcserélve)</item>
-    </string-array>
-    <string-array name="entryvalues_status_styles">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
     </string-array>
 </resources>
