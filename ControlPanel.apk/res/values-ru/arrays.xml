@@ -1,36 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cpu_zram_size_entries">
-        <item>Отключить</item>
+        <item>Disable</item>
         <item>10%</item>
         <item>18%</item>
         <item>26%</item>
     </string-array>
+    <string-array name="cpu_zram_size_values">
+        <item>0</item>
+        <item>10</item>
+        <item>18</item>
+        <item>26</item>
+    </string-array>
     <string-array name="entries_animations">
-        <item>Отключена</item>
-        <item>Быстрая</item>
-        <item>Обычная</item>
-        <item>Медленная</item>
-        <item>Еще медленнее</item>
-        <item>Очень медленная</item>
-        <item>Самая медленная</item>
+        <item>Отключено</item>
+        <item>Быстро</item>
+        <item>Нормально</item>
+        <item>Медленно</item>
+        <item>Ещё медленнее</item>
+        <item>Очень медленно</item>
+        <item>Максимально медленно</item>
+    </string-array>
+    <string-array name="entryvalues_animations">
+        <item>0.0</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+        <item>5.0</item>
+        <item>10.0</item>
     </string-array>
     <string-array name="entries_overscroll_type">
-        <item>Никакая</item>
-        <item>Свет</item>
-        <item>Отскок</item>
-        <item>Отскок и свет</item>
+        <item>None</item>
+        <item>Glow</item>
+        <item>Bounce</item>
+        <item>Bounce &amp;amp;amp; Glow</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_type">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Очень тяжелая</item>
-        <item>Тяжелая</item>
-        <item>Средняя</item>
-        <item>Легкая</item>
-        <item>Очень легкая</item>
+        <item>Очень сильно</item>
+        <item>Сильно</item>
+        <item>Средне</item>
+        <item>Слабо</item>
+        <item>Очень слабо</item>
+    </string-array>
+    <string-array name="entryvalues_overscroll_weight">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
     </string-array>
     <string-array name="entries_status_styles">
-        <item>В центре</item>
         <item>Справа</item>
-        <item>Слева</item>
+        <item>По центру</item>
+        <item>По центру (сдвиг иконок)</item>
+    </string-array>
+    <string-array name="entryvalues_status_styles">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
     </string-array>
 </resources>
