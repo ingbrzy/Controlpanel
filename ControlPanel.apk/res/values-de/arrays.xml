@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Deaktivieren</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Aus</item>
+        <item>Schnell</item>
+        <item>Normal</item>
+        <item>Langsam</item>
+        <item>Langsamer</item>
+        <item>Sehr langsam</item>
+        <item>Am langsamsten</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>Nichts</item>
+        <item>Leuchten</item>
+        <item>Federn</item>
+        <item>Federn &amp; Leuchten</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Extra stark</item>
+        <item>Stark</item>
+        <item>Mittel</item>
+        <item>Schwach</item>
+        <item>Extra schwach</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Rechts</item>
+        <item>Zentriert</item>
+        <item>Zentriert (Symbole umgeschaltet)</item>
+    </string-array>
+</resources>
