@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Disabilita</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Disattivato</item>
+        <item>Veloce</item>
+        <item>Normale</item>
+        <item>Lento</item>
+        <item>Più lento</item>
+        <item>Molto lento</item>
+        <item>Estremamente lento</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>Nessuno</item>
+        <item>Effetto luce</item>
+        <item>Rimbalzo</item>
+        <item>Rimbalzo e Luce</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Molto pesante</item>
+        <item>Pesante</item>
+        <item>Medio</item>
+        <item>Leggero</item>
+        <item>Molto Leggero</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>destra</item>
+        <item>Centrato</item>
+        <item>Centrato (Icone cambiate)</item>
+    </string-array>
+</resources>
