@@ -112,26 +112,9 @@
     <string name="battery_category">Настройки батареи</string>
     <string name="other_category">Разное</string>
     <string name="accessibility_settings">Настройки доступа</string>
-    <string name="accessibility_settings_summary" />
     <string name="battery_info">Информация о батарее</string>
-    <string name="battery_info_summary" />
     <string name="phone_info">Информация о телефоне</string>
-    <string name="phone_info_summary" />
     <string name="wifi_testing">Информация о Wi-Fi</string>
-    <string name="wifi_testing_summary" />
     <string name="usage_statistics">Статистика использования</string>
-    <string name="usage_statistics_summary" />
     <string name="fuel_gauge">Использование батареи</string>
-    <string name="fuel_gauge_summary" />
-    <string name="legacy_ums_file">/sys/devices/platform/msm_hsusb/gadget/lun0/file</string>
-    <string name="legacy_ums_file_onex">/sys/devices/platform/fsl-tegra-udc/gadget/lun0/file</string>
-    <string name="legacy_ums_file_sgs2">/sys/devices/platform/s3c-usbgadget/gadget/lun0/file</string>
-    <string name="internal_partitions">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_sony">/sys/block/mtdblock*</string>
-    <string name="internal_partitions_first">/sys/block/mmcblk0</string>
-    <string name="internal_partitions_first_sony">/sys/block/mtdblock0</string>
-    <string name="external_partitions">/sys/block/mmcblk1</string>
-    <string name="external_partitions_sony">/sys/block/mmcblk0</string>
-    <string name="external_partitions_first">/sys/block/mmcblk1</string>
-    <string name="external_partitions_first_sony">/sys/block/mmcblk0</string>
 </resources>
