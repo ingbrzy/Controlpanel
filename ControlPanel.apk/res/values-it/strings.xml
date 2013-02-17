@@ -24,7 +24,7 @@ Assicurato che la tua ROM abbia i permessi di root abilitati prima di riprovare.
     <string name="status_bar_category">Barra di Stato</string>
     <string name="status_styles_title">Posizione Orologio</string>
     <string name="hide_clock_title">Nascondi Orologio</string>
-    <string name="hide_clock_summary">Rimuovi l'orologio dalla barra di stato</string>
+    <string name="hide_clock_summary">Rimuovi l\'orologio dalla barra di stato</string>
     <string name="overscroll_effect_title">Effetto fine scorrimento</string>
     <string name="overscroll_weight_title">Intensità effetto fine scorrimento</string>
     <string name="onscreenkeys_category">Tasti Schermo</string>

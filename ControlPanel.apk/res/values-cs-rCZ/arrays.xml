@@ -12,12 +12,12 @@
         <item>Normální</item>
         <item>Pomalé</item>
         <item>Pomalejší</item>
-        <item>Ješte pomalejší</item>
+        <item>Ještě pomalejší</item>
         <item>Nejpomalejší</item>
     </string-array>
     <string-array name="entries_overscroll_type">
         <item>Žádný</item>
-        <item>Žáře</item>
+        <item>Záře</item>
         <item>Poskočení</item>
         <item>Poskočení a záře</item>
     </string-array>
