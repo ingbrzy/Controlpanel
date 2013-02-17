@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="cpu_zram_size_entries">
-        <item>Vypnuté</item>
+        <item>Vypnuto</item>
         <item>10%</item>
         <item>18%</item>
         <item>26%</item>
     </string-array>
     <string-array name="entries_animations">
-        <item>Vypnuté</item>
-        <item>Rýchle</item>
-        <item>Normálne</item>
+        <item>Vypnuto</item>
+        <item>Rychlé</item>
+        <item>Normální</item>
         <item>Pomalé</item>
-        <item>Pomalšie</item>
-        <item>Ešte pomalšie</item>
-        <item>Najpomalšie</item>
+        <item>Pomalejší</item>
+        <item>Ješte pomalejší</item>
+        <item>Nejpomalejší</item>
     </string-array>
     <string-array name="entries_overscroll_type">
-        <item>Žiaden</item>
-        <item>Žiara</item>
-        <item>Poskočenie</item>
-        <item>Poskočenie a žiara</item>
+        <item>Žádný</item>
+        <item>Žáře</item>
+        <item>Poskočení</item>
+        <item>Poskočení a záře</item>
     </string-array>
     <string-array name="entries_overscroll_weight">
-        <item>Veľmi ťažké</item>
-        <item>Ťažké</item>
-        <item>Stredné</item>
-        <item>ľahké</item>
-        <item>Extra ľahké</item>
+        <item>Velmi těžké</item>
+        <item>Těžké</item>
+        <item>Střední</item>
+        <item>Lehké</item>
+        <item>Extra lehké</item>
     </string-array>
     <string-array name="entries_status_styles">
         <item>Vpravo</item>
-        <item>V strede</item>
-        <item>V strede (Vymenené ikony)</item>
+        <item>Uprostřed</item>
+        <item>Uprostřed (Vyměněné ikony)</item>
     </string-array>
 </resources>
