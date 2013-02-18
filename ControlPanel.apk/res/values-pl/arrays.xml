@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Wyłączone</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Wyłączone</item>
+        <item>Szybko</item>
+        <item>Normalnie</item>
+        <item>Wolno</item>
+        <item>Wolniej</item>
+        <item>Bardzo wolno</item>
+        <item>Najwolniej</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>Brak</item>
+        <item>Rozjaśnienie</item>
+        <item>Odbicie</item>
+        <item>Odbicie i rozjaśnienie</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Bardzo ciężkie</item>
+        <item>Ciężkie</item>
+        <item>Średnie</item>
+        <item>Lekkie</item>
+        <item>Bardzo lekkie</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Android</item>
+        <item>Wycentrowany</item>
+        <item>Wycentrowany (iPhone)</item>
+    </string-array>
+</resources>
