@@ -13,7 +13,7 @@
 
 Alcune opzioni potrebbero non funzionare correttamente o non funzionare del tutto.
 
-Assicurato che la tua ROM abbia i permessi di root abilitati prima di riprovare."</string>
+Assicurati che la tua ROM abbia i permessi di root abilitati prima di riprovare."</string>
     <string name="no_root_accept">Esci</string>
     <string name="unavailable_toast">Applicazione non installata</string>
     <string name="reboot_now_toast">Riavvia adesso per applicare le modifiche</string>
@@ -41,12 +41,12 @@ Assicurato che la tua ROM abbia i permessi di root abilitati prima di riprovare.
     <string name="fancy_ime_animations_title">Fancy input animations</string>
     <string name="fancy_ime_animations_summary_on">Use fancier animations for input method windows</string>
     <string name="fancy_ime_animations_summary_off">Use normal animations for input method windows</string>
-    <string name="carrier_label_category">Carrier Label</string>
-    <string name="show_carrier_title">Show Label</string>
-    <string name="show_carrier_summary">Show the carrier label in the status bar</string>
-    <string name="custom_carrier_title">Use Custom Label</string>
-    <string name="custom_carrier_summary">Use a customised carrier label</string>
-    <string name="custom_carrier_label_title">Custom Text</string>
+    <string name="carrier_label_category">Etichetta operatore</string>
+    <string name="show_carrier_title">Mastra etichetta</string>
+    <string name="show_carrier_summary">Mastra etichetta operatore nella barra di stato</string>
+    <string name="custom_carrier_title">Usa etichetta personalizzata</string>
+    <string name="custom_carrier_summary">Usa una etichetta operatore personalizzata</string>
+    <string name="custom_carrier_label_title">Testo personalizzato</string>
     <string name="custom_carrier_label_summary">Define a custom string to use as your carrier label</string>
     <string name="carrier_logo_title">Carrier Logo</string>
     <string name="carrier_logo_summary">Show a logo instead of text for the carrier</string>
