@@ -30,7 +30,7 @@
     </string-array>
     <string-array name="entries_status_styles">
         <item>Right</item>
-        <item>Centred</item>
-        <item>Centred (Icons Switched)</item>
+        <item>Centered</item>
+        <item>Centered (Icons Switched)</item>
     </string-array>
 </resources>
