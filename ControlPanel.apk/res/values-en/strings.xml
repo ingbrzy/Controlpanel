@@ -30,8 +30,8 @@ Please ensure your ROM is correctly rooted before trying again."</string>
     <string name="onscreenkeys_category">On-Screen Keys</string>
     <string name="onscreenkeys_title">Show Keys</string>
     <string name="onscreenkeys_summary">Enable the on-screen navigation bar</string>
-    <string name="navigation_height_portrait_title">Portrait navigation bar Height</string>
-    <string name="navigation_height_landscape_title">Landscape navigation bar Width</string>
+    <string name="navigation_height_portrait_title">Portrait navigation bar height</string>
+    <string name="navigation_height_landscape_title">Landscape navigation bar width</string>
     <string name="onscreenkeys_summary_disabled">Device not supported</string>
     <string name="onscreenkeys_custom">Customise Keys</string>
     <string name="window_animations_title">Window animations</string>
@@ -54,7 +54,7 @@ Please ensure your ROM is correctly rooted before trying again."</string>
     <string name="cpu_summary">Optimise CPU settings</string>
     <string name="cpu_governor">Governor</string>
     <string name="cpu_governor_unavailable">Your current kernel does not support changing the CPU governor</string>
-    <string name="cpu_min_freq">Minimum Frequency</string>
+    <string name="cpu_min_freq">Min CPU Frequency</string>
     <string name="cpu_min_disabled">Your current kernel does not support changing the minimum CPU frequency</string>
     <string name="cpu_max_freq">Maximum Frequency</string>
     <string name="cpu_max_disabled">Your current kernel does not support changing the maximum CPU frequency</string>
