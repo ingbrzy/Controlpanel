@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_zram_size_entries">
+        <item>Uitschakelen</item>
+        <item>10%</item>
+        <item>18%</item>
+        <item>26%</item>
+    </string-array>
+    <string-array name="entries_animations">
+        <item>Uit</item>
+        <item>Snel</item>
+        <item>Normaal</item>
+        <item>Langzaam</item>
+        <item>Langzamer</item>
+        <item>Heel Langzaam</item>
+        <item>Langzaamst</item>
+    </string-array>
+    <string-array name="entries_overscroll_type">
+        <item>Geen</item>
+        <item>Gloed</item>
+        <item>Stuiter</item>
+        <item>Stuiter &amp; Gloed</item>
+    </string-array>
+    <string-array name="entries_overscroll_weight">
+        <item>Extra Zwaar</item>
+        <item>Zwaar</item>
+        <item>Medium</item>
+        <item>Licht</item>
+        <item>Extra Licht</item>
+    </string-array>
+    <string-array name="entries_status_styles">
+        <item>Rechts</item>
+        <item>Midden</item>
+        <item>Midden (Iconen Gedraaid)</item>
+    </string-array>
+</resources>
