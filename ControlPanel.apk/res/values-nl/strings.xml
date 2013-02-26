@@ -15,7 +15,7 @@ Sommige opties zouden niet kunnen werken, of werken zelfs helemaal niet.
 
 Alstublieft wees er zeker van de je ROM goed is geroot voordat je het opnieuw probeert."</string>
     <string name="no_root_accept">Annuleren</string>
-    <string name="unavailable_toast">App is niet geinstalleerd</string>
+    <string name="unavailable_toast">App is niet ge&#195;&#175;nstalleerd</string>
     <string name="reboot_now_toast">Herstart nu om wijzigingen toe te passen</string>
     <string name="current">Huidig</string>
     <string name="interface_settings">Interface</string>
@@ -106,7 +106,7 @@ Alstublieft wees er zeker van de je ROM goed is geroot voordat je het opnieuw pr
     <string name="device_tests_summary_sony">"Start Xperia Service Menu. Niet alle functies werken op niet-stock ROM's."</string>
     <string name="equaliser_settings">Equalizer</string>
     <string name="equaliser_summary">Verbeter het geluid van je luidsprekers</string>
-    <string name="nativeandroid_settings">Gewone Android Instellingen</string>
+    <string name="nativeandroid_settings">Standaard Android Instellingen</string>
     <string name="nativeandroid_summary">Een collectie van verborgen en soms moeilijk te vinden instellingen van Android OS</string>
     <string name="battery_category">Batterij Instellingen</string>
     <string name="other_category">Misc</string>
